@@ -1,0 +1,16 @@
+site_name: My Docs
+theme:
+  name: gitbook
+
+plugins: []
+
+extra:
+  nav:
+    sort_order: reverse
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Modding:
+    - 'More Wolf Armour': 
+      - 'Armour Types': 'modding/morewolfarmour/armour_types.md'
